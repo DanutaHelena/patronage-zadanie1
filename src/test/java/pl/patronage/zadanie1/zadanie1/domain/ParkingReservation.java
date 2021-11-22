@@ -12,5 +12,5 @@ import org.springframework.data.annotation.Id;
 public class ParkingReservation {
 
     @Id
-    private Integer id; 
+    private Integer id;
 }
