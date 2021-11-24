@@ -9,7 +9,7 @@ import org.springframework.data.annotation.Id;
 @NoArgsConstructor
 @Data
 
-public class ParkingReservation {
+public class Reservation {
 
     @Id
     private Integer id;
